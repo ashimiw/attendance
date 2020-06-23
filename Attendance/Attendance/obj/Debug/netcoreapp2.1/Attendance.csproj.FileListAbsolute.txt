@@ -1,0 +1,11 @@
+C:\Users\Ashim Prajapati\source\repos\Attendance\Attendance\bin\Debug\netcoreapp2.1\Attendance.deps.json
+C:\Users\Ashim Prajapati\source\repos\Attendance\Attendance\bin\Debug\netcoreapp2.1\Attendance.runtimeconfig.json
+C:\Users\Ashim Prajapati\source\repos\Attendance\Attendance\bin\Debug\netcoreapp2.1\Attendance.runtimeconfig.dev.json
+C:\Users\Ashim Prajapati\source\repos\Attendance\Attendance\bin\Debug\netcoreapp2.1\Attendance.dll
+C:\Users\Ashim Prajapati\source\repos\Attendance\Attendance\bin\Debug\netcoreapp2.1\Attendance.pdb
+C:\Users\Ashim Prajapati\source\repos\Attendance\Attendance\obj\Debug\netcoreapp2.1\Attendance.csprojAssemblyReference.cache
+C:\Users\Ashim Prajapati\source\repos\Attendance\Attendance\obj\Debug\netcoreapp2.1\Attendance.csproj.CoreCompileInputs.cache
+C:\Users\Ashim Prajapati\source\repos\Attendance\Attendance\obj\Debug\netcoreapp2.1\Attendance.AssemblyInfoInputs.cache
+C:\Users\Ashim Prajapati\source\repos\Attendance\Attendance\obj\Debug\netcoreapp2.1\Attendance.AssemblyInfo.cs
+C:\Users\Ashim Prajapati\source\repos\Attendance\Attendance\obj\Debug\netcoreapp2.1\Attendance.dll
+C:\Users\Ashim Prajapati\source\repos\Attendance\Attendance\obj\Debug\netcoreapp2.1\Attendance.pdb

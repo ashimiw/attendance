@@ -1,0 +1,116 @@
+[
+  {
+    "EmployeeId": "327f5e81-628d-4299-b322-61bbca73f132",
+    "EmplyeeName": "Doris Gibbs",
+    "EntryDate": "2020-06-23T07:24:05"  
+  },
+  {
+    "EmployeeId": "327f5e81-628d-4299-b322-61bbca73f132",
+    "EmplyeeName": "Doris Gibbs",
+    "EntryDate": "2020-06-23T08:24:05"  
+  },
+  {
+    "EmployeeId": "327f5e81-628d-4299-b322-61bbca73f132",
+    "EmplyeeName": "Doris Gibbs",
+    "EntryDate": "2020-06-23T09:24:05" 
+  },
+  
+  {
+    "EmployeeId": "327f5e81-628d-4299-b322-61bbca73f132",
+    "EmplyeeName": "Doris Gibbs",
+    "EntryDate": "2020-06-23T16:24:05"  
+  },
+  {
+    "EmployeeId": "22559563-dc33-47f1-9998-5df124bbc136",
+    "EmplyeeName": "Noel Anthony",
+    "EntryDate": "2020-06-23T07:49:40",
+    "Status": true
+  },
+  {
+    "EmployeeId": "22559563-dc33-47f1-9998-5df124bbc136",
+    "EmplyeeName": "Noel Anthony",
+    "EntryDate": "2020-06-23T10:49:40",
+    "Status": true
+  },
+  {
+    "EmployeeId": "22559563-dc33-47f1-9998-5df124bbc136",
+    "EmplyeeName": "Noel Anthony",
+    "EntryDate": "2020-06-23T14:49:40",
+    "Status": true
+  },
+  {
+    "EmployeeId": "22559563-dc33-47f1-9998-5df124bbc136",
+    "EmplyeeName": "Noel Anthony",
+    "EntryDate": "2020-06-23T16:49:40",
+    "Status": true
+  },
+  {
+    "EmployeeId": "e9cf3507-04f9-4dfe-9644-213fa328b871",
+    "EmplyeeName": "Justice Waller",
+    "EntryDate": "2020-06-23T08:43:06"  
+  },
+  {
+    "EmployeeId": "e9cf3507-04f9-4dfe-9644-213fa328b871",
+    "EmplyeeName": "Justice Waller",
+    "EntryDate": "2020-06-23T09:43:06"  
+  },
+  {
+    "EmployeeId": "e9cf3507-04f9-4dfe-9644-213fa328b871",
+    "EmplyeeName": "Justice Waller",
+    "EntryDate": "2020-06-23T10:43:06"  
+  },{
+    "EmployeeId": "e9cf3507-04f9-4dfe-9644-213fa328b871",
+    "EmplyeeName": "Justice Waller",
+    "EntryDate": "2020-06-23T12:43:06"  
+  },{
+    "EmployeeId": "e9cf3507-04f9-4dfe-9644-213fa328b871",
+    "EmplyeeName": "Justice Waller",
+    "EntryDate": "2020-06-23T13:43:06"  
+  },{
+    "EmployeeId": "e9cf3507-04f9-4dfe-9644-213fa328b871",
+    "EmplyeeName": "Justice Waller",
+    "EntryDate": "2020-06-23T16:43:06"  
+  },
+  {
+    "EmployeeId": "e9cf3507-04f9-4dfe-9644-213fa328b871",
+    "EmplyeeName": "Justice Waller",
+    "EntryDate": "2020-06-22T08:43:06"  
+  },
+
+  {
+    "EmployeeId": "e9cf3507-04f9-4dfe-9644-213fa328b871",
+    "EmplyeeName": "Justice Waller",
+    "EntryDate": "2020-06-22T10:43:06"  
+  },
+  {
+    "EmployeeId": "e9cf3507-04f9-4dfe-9644-213fa328b871",
+    "EmplyeeName": "Justice Waller",
+    "EntryDate": "2020-06-22T11:43:06"  
+  },
+  {
+    "EmployeeId": "e9cf3507-04f9-4dfe-9644-213fa328b871",
+    "EmplyeeName": "Justice Waller",
+    "EntryDate": "2020-06-22T17:50:06"  
+  },
+  {
+    "EmployeeId": "327f5e81-628d-4299-b322-61bbca73f132",
+    "EmplyeeName": "Doris Gibbs",
+    "EntryDate": "2020-06-22T07:24:05"  
+  },
+  {
+    "EmployeeId": "327f5e81-628d-4299-b322-61bbca73f132",
+    "EmplyeeName": "Doris Gibbs",
+    "EntryDate": "2020-06-22T09:24:05"  
+  },
+  {
+    "EmployeeId": "327f5e81-628d-4299-b322-61bbca73f132",
+    "EmplyeeName": "Doris Gibbs",
+    "EntryDate": "2020-06-22T10:24:05"  
+  },
+  
+  {
+    "EmployeeId": "327f5e81-628d-4299-b322-61bbca73f132",
+    "EmplyeeName": "Doris Gibbs",
+    "EntryDate": "2020-06-22T15:24:05"  
+  }
+]
